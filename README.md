@@ -1,0 +1,1 @@
+This is a calculator website that provides the functionality of the basic mathematical operations of a calculator like addition, subtraction ,multiplication and division, using the tech stack of HTML,CSS and JavasScript.
